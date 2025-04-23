@@ -1,5 +1,5 @@
 ---
-title: "Project"
+title: "Project demo"
 author: "Ralemon"
 subtitle: "Investigation into Chicago taxis"
 echo: false
